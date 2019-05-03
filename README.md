@@ -4,6 +4,7 @@
 
 Read more [Magento 2 Uzbek Language Pack](https://www.mageplaza.com/magento-2-uzbek-language-pack.html)
 
+![Mageplaza Uzbek language pack](https://i.imgur.com/qjWPj1W.png)
 
 ## Overview
 
